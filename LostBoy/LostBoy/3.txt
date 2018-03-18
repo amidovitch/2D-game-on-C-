@@ -1,0 +1,53 @@
+                         4555555555555555555555556
+                             i      i    i    i  6
+                         |   i      i    i    i| 6
+                       | 4555555555555555555555  6
+                         4ii                     6
+1                        4ii                     6
+1                        4ii   lll               6
+1                        4ii   lll               6
+1       i                4ii   lll               6
+1|      i|               4iif  lll               6
+1l1222223 |iii   iii|  | 7888888888888888888888889
+1l4555556                                         
+1l4555556                                         
+1l7888889                                         
+1l                                                
+1l                                                
+1l                                i               
+1liii          iii|              |i   |           
+1l                                12223l          
+1l                         1hhh3  45556l          
+1l                         78889  78889l          
+1l                                     l     |    
+1                                      l          
+1           1hhh3  1hhh3               l          
+1ii    iii  78889  78889               l          
+1                                                 
+1                               i                 
+1                        |      i|                
+1                        l1222223      i          
+1                        l4555556 |    i|         
+1                        l4555556  12223          
+1                        l7888889  78889          
+1                                                 
+1         |iii      iii|                          
+1 s                                               
+12222  222                                   |    
+15555hh555hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+15555ww555wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+5
+1217 929
+1013 865
+1155 544
+140 288
+1022 64
+4
+450 1080
+261 760
+60 530
+360 300
+2
+1422 980
+704 256
+images/Карты/Зима.png
